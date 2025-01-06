@@ -25,7 +25,7 @@ FigExtractor is a powerful Python tool designed to automatically extract figures
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FigExtractor.git
+git clone https://github.com/tenlhak/FigExtractor.git
 cd FigExtractor
 ```
 
