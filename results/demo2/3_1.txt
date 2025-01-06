@@ -1,0 +1,1 @@
+['Fig. 2. Mapping natural foot motions to control the (a) ﬂexible endoscope in', 'four DoFs of (b) Up/down bending, (c) left/right bending, (d) translation and', '(e) rotation. (Right foot is illustrated here).']

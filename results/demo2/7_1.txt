@@ -1,0 +1,1 @@
+['Fig. 9. Ex vivo test setup. (a) Master console. (b) Slave robotic system. (c) Surgical instruments and working tissue.']

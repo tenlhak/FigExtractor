@@ -1,0 +1,1 @@
+['Fig. 7. Four-DoF motion control demonstrated with the foot, foot-controlled interface, and the endoscope. (a) Up-down bending DoF. (b) Left-right bending', 'DoF. (c) Rotation DoF. (d) Translation DoF.']

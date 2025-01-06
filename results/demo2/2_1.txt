@@ -1,0 +1,1 @@
+['Fig. 1. Overview of the foot-controlled robotic endoscope teleoperation system. (a) Master console and surgeon. (b) Slave surgical robot systems, one for', 'the endoscope and one for the two endoscopic instruments.']

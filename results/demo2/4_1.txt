@@ -1,0 +1,1 @@
+['Fig. 3. Robotic endoscope system in (a) perspective view. Exposed view of (b) bending module (BM), (c) rotation module (RM) and (d) translation module', '(TM).']

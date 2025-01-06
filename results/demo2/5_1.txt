@@ -1,0 +1,1 @@
+['Fig. 6. Endoscope motion study (a) set up and (b) angle calculation.', 'Hysteresis proﬁles of the endoscope in (c) L/R direction and (d) U/D direction.']
