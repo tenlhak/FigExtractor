@@ -2,6 +2,20 @@
 
 FigExtractor is a powerful Python tool designed to automatically extract figures and their associated captions from PDF documents. It's particularly useful for researchers, academics, and anyone working with scientific papers who needs to extract and analyze figures and captions programmatically.
 
+## Project Architecture
+
+### System Workflow
+![Project Workflow](docs/images/workflow.png)
+
+The workflow diagram above illustrates the complete process of figure extraction:
+1. Input PDF is processed by the main application
+2. PDF is rendered into images and converted to HTML
+3. Figures are detected through image processing
+4. Captions are extracted through HTML parsing
+5. Figures and captions are matched and extracted
+
+
+
 ## Features
 
 - Extracts figures and diagrams from PDF documents
