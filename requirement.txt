@@ -1,0 +1,6 @@
+Pillow>=9.0.0
+numpy>=1.21.0
+selenium>=4.1.0
+opencv-python>=4.5.0
+matplotlib>=3.4.0
+lxml>=4.9.0
