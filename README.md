@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This project uses modified components from various open-source projects
-- Thanks to all contributors and maintainers of the required tools
+
