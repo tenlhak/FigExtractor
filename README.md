@@ -5,7 +5,7 @@ FigExtractor is a powerful Python tool designed to automatically extract figures
 ## Project Architecture
 
 ### System Workflow
-![Project Workflow](docs/images/workflow.png)
+![Project Workflow](images/workflow.png)
 
 The workflow diagram above illustrates the complete process of figure extraction:
 1. Input PDF is processed by the main application
